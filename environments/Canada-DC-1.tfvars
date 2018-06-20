@@ -1,0 +1,5 @@
+name              = "Canada-DC-1"
+bucket            = "terraform-demo-296786580913"
+region            = "eu-central-1"
+project           = "demo-dc1"
+environment       = "dev"

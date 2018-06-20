@@ -1,0 +1,1 @@
+../../../modules/aws/variables_global_aws.tf

@@ -1,0 +1,6 @@
+[submodule "modules/aws"]
+	path = modules/aws
+	url = https://github.com/ask0n/tf_aws.git
+[submodule "modules/gce"]
+	path = modules/gce
+	url = https://github.com/ask0n/tf_gce.git

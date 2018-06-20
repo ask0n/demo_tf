@@ -1,0 +1,6 @@
+name              = "global"
+bucket            = "terraform-demo-296786580913"
+#tfstate           = "global-af.tfstate"
+region            = "eu-central-1"
+project           = "demo"
+environment       = "dev"

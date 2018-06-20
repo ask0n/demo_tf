@@ -1,0 +1,10 @@
+terraform.tfvars
+.terraform/
+modules/generic/
+.hg
+.DS_Store
+
+*.tfplan
+*.tfstate
+*.tfstate.*.backup
+*.tfstate.backup
